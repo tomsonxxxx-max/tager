@@ -1,0 +1,7 @@
+{
+  "name": "Lumbago Music AI",
+  "description": "Zaawansowany menedżer i analityk muzyki nowej generacji, wykorzystujący AI do tagowania, sortowania i analizy bibliotek muzycznych dla DJ-ów i kolekcjonerów.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
